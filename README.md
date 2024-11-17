@@ -10,7 +10,6 @@ These instructions will get you a copy of the files up and running on your local
 
 The things you need before installing the starter kit.
 
-* 
 * Any code editor that supports both HTML and PHP
 * A MariaDB server or any local server that supports SQL.
 * Basic knowledge about HTML
